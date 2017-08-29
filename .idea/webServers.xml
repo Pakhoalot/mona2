@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="02cfbd51-90cc-436e-aec4-f91b797a566f" name="raspberry2.my" url="http://raspberry2.my">
+        <fileTransfer host="raspberry2.my" port="21" rootFolder="/home/pi/Documents/mona">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

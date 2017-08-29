@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="raspberry2.my">
+    <serverData>
+      <paths name="raspberry2.my">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/mona" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/mona/capture/1503393858.jpg" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
