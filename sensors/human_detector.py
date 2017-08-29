@@ -25,7 +25,6 @@ class HumanDetector(sensor.Sensor):
         return GPIO.input(self.__channel)
 
 
-
 if __name__ == '__main__':
     GPIO.setmode(GPIO.BOARD)
     hd = HumanDetector(11)
